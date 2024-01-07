@@ -1,3 +1,3 @@
-##To run the website##
+**To run the website**
 
 type npm run dev
